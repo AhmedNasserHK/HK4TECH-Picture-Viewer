@@ -31,7 +31,7 @@ jobs:
         run: |
           echo "Updating README.md"
           echo "GITHUB_USER: ${{ env.AhmedNasserHK }}"
-          echo "REPO: ${{ env.readme-download-button-action }}"
+          echo "REPO: ${{ env.HK4TECH-Picture-Viewer }}"
           echo "FORMAT: ${{ env.zip }}"
           echo "VERSION: ${{ env.1.0.1.0 }}"
           echo "COLOR: ${{ env.blue }}"
