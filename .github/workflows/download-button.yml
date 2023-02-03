@@ -24,7 +24,7 @@ jobs:
           GITHUB_USER: "AhmedNasserHK"
           REPO: "HK4TECH-Picture-Viewer"
           FORMAT: "zip"
-          VERSION: "${{ steps.get-latest-release.outputs.tag_name }}"
+          VERSION: "1.0.1.0"
           COLOR: "blue"
           BEGIN_TAG: "\n\n<!-- BEGIN LATEST DOWNLOAD BUTTON -->"
           END_TAG: "<!-- END LATEST DOWNLOAD BUTTON -->"
