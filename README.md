@@ -1,7 +1,32 @@
+<p align="center">
+  <img src="/hk4tech-picture-viewer/resources/hk icon 2/picture_hk.png">
+</p>
+<h1 align="center">HK4TECH Picture Viewer</h1>
+
+<p align="center">
+  <a href="https://hk4tech.com/home/HK4TECH-Picture-Viewer">HK4TECH Picture Viewer</a> is a lightweight, versatile desktop image viewer for Windows.<br>The best replacement for the default Windows photo viewer.
+  <br><br>
+  <a href="https://github.com/AhmedNasserHK/HK4TECH-Picture-Viewer/releases">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/AhmedNasserHK/HK4TECH-Picture-Viewer?include_prereleases">
+    <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/AhmedNasserHK/HK4TECH-Picture-Viewer/total">
+  </a>
+  <a href="https://hk4tech.com">
+    <img alt="Module Art website" src="https://img.shields.io/badge/www-HKProjects-%2300BCD4">
+  </a>
+  <a href="https://hk4tech.com/home/HK4TECH-Picture-Viewer">
+  </a>
+  <br>
+  v1.0.1 (Stable) - Feb 03, 2023 - <a href="https://github.com/AhmedNasserHK/HK4TECH-Picture-Viewer/releases/download/1.0.1.0/HK4TECHPictureViewer-Setup.exe">Download (3.56 MB)</a>
+  <br>
+    </a>
+    <a href="https://hk4tech.com/home/HK4TECH-Picture-Viewer">
+    <img src="/hk4tech-picture-viewer/resources/SS/Screenshot.png">
+  </a>
+</p>
+
+
 # HK4TECH-Picture-Viewer
 HK4TECH Picture Viewer is a lightweight, versatile desktop image viewer for Windows. The best replacement for the default Windows photo viewer. Based On ModuleArt Projects
-
-[Go To Download](https://github.com/AhmedNasserHK/HK4TECH-Picture-Viewer/releases/tag/1.0.1.0)
 
 😃 Features:
 
