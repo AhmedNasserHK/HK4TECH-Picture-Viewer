@@ -21,8 +21,8 @@ jobs:
 
       - name: Readme Download Button Action
         env:
-          GITHUB_USER: "DenverCoder1"
-          REPO: "readme-download-button-action"
+          GITHUB_USER: "AhmedNasserHK"
+          REPO: "HK4TECH-Picture-Viewer"
           FORMAT: "zip"
           VERSION: "${{ steps.get-latest-release.outputs.tag_name }}"
           COLOR: "blue"
@@ -30,13 +30,13 @@ jobs:
           END_TAG: "<!-- END LATEST DOWNLOAD BUTTON -->"
         run: |
           echo "Updating README.md"
-          echo "GITHUB_USER: ${{ env.AhmedNasserHK }}"
-          echo "REPO: ${{ env.HK4TECH-Picture-Viewer }}"
-          echo "FORMAT: ${{ env.zip }}"
-          echo "VERSION: ${{ env.1.0.1.0 }}"
-          echo "COLOR: ${{ env.blue }}"
-          echo "BEGIN_TAG: ${{ env.<!-- BEGIN LATEST DOWNLOAD BUTTON --> }}"
-          echo "END_TAG: ${{ env.<!-- END LATEST DOWNLOAD BUTTON --> }}"
+          echo "GITHUB_USER: ${{ env.GITHUB_USER }}"
+          echo "REPO: ${{ env.REPO }}"
+          echo "FORMAT: ${{ env.FORMAT }}"
+          echo "VERSION: ${{ env.VERSION }}"
+          echo "COLOR: ${{ env.COLOR }}"
+          echo "BEGIN_TAG: ${{ env.BEGIN_TAG }}"
+          echo "END_TAG: ${{ env.END_TAG }}"
           UPDATE=$(cat README.md | perl -0777 -pe 's#(${{ env.BEGIN_TAG }})(?:.|\n)*?(${{ env.END_TAG }})#${1}\n[![Download ${{ env.FORMAT }}](https://custom-icon-badges.herokuapp.com/badge/-Download-${{ env.COLOR }}?style=for-the-badge&logo=download&logoColor=white "Download ${{ env.FORMAT }}")](https://github.com/${{ env.GITHUB_USER }}/${{ env.REPO }}/archive/${{ env.VERSION }}.${{ env.FORMAT }})\n${2}#g')
           echo "${UPDATE}" > README.md
       - uses: EndBug/add-and-commit@v7
