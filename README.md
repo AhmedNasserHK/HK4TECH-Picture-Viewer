@@ -28,40 +28,40 @@
 # HK4TECH-Picture-Viewer
 HK4TECH Picture Viewer is a lightweight, versatile desktop image viewer for Windows. The best replacement for the default Windows photo viewer. Based On ModuleArt Projects
 
-😃 Features:
+## 😃 Features :
 
-🖼️ Supported 20+ image formats: .png, .jpg, .jpeg, .jpe, .jfif, .exif, .gif, .bmp, .dib, .rle, .tiff, .tif, .ico, .webp, .svg, .dds, .tga, .psd, .cr2 ...
-🖼️ Lightweight Small and fast but still have a bunch of features
-✍️ Basic image editing: Rotate, flip, crop, change file type ...
-🖽 Shortcuts You will find a hotkey for any action
-🧩 Plugins ready
-↗️ Open image with external app or show file in explorer
-🖽 Picture-in-Picture mode
-♟️ Checkerboard background
-🖥️ Set image as desktop background
-🖨️ Print image or export to PDF
-ℹ️ View image details
-🗔 Frameless mode
-🔝 Always on top
-🎞️ Slideshow
-🕶️ Dark mode
+* 🖼️ Supported 20+ image formats: .png, .jpg, .jpeg, .jpe, .jfif, .exif, .gif, .bmp, .dib, .rle, .tiff, .tif, .ico, .webp, .svg, .dds, .tga, .psd, .cr2 ...
+* 🖼️ Lightweight Small and fast but still have a bunch of features
+* ✍️ Basic image editing: Rotate, flip, crop, change file type ...
+* 🖽 Shortcuts You will find a hotkey for any action
+* 🧩 Plugins ready
+* ↗️ Open image with external app or show file in explorer
+* 🖽 Picture-in-Picture mode
+* ♟️ Checkerboard background
+* 🖥️ Set image as desktop background
+* 🖨️ Print image or export to PDF
+* ℹ️ View image details
+* 🗔 Frameless mode
+* 🔝 Always on top
+* 🎞️ Slideshow
+* 🕶️ Dark mode
 
 
 
-🧩 Built-in plugins:
+## 🧩 Built-in plugins:
 Effects:
 
-Blur or pixelate - by Beelink (Beelink)
-Grayscale - by Beelink (Beelink)
-Invert colors - by Beelink (Beelink)
-Rainbow - by Beelink (Beelink)
+* Blur or pixelate - by Beelink (Beelink)
+* Grayscale - by Beelink (Beelink)
+* Invert colors - by Beelink (Beelink)
+* Rainbow - by Beelink (Beelink)
 
 Tools:
 
-Screenshot - by Beelink (Beelink)
+* Screenshot - by Beelink (Beelink)
 
 
-🔨 Contribution:
+## 🔨 Contribution:
 Help Beelink!
 
 Give us a star ⭐
